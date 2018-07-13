@@ -1,0 +1,1 @@
+int pruefsumme(char *text);
